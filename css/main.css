@@ -1,0 +1,31 @@
+#splash {
+	background-image: url("../assets/images/pink-glitter-wallpaper.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-size: 70px;
+	height: 100vh;
+	padding-top: 50%;
+	padding-left: 25%;
+	width: 100%;
+}
+
+.logo {
+	height: 150px;
+}
+
+#logInView {
+	background-image: url("../assets/images/highway.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	padding-top: 50%;
+	padding-left: 25%;
+	width: 100%;
+}
+
+.bttn {
+	border-bottom: 2px solid white;
+	background: transparent;
+	color: white;
+	height: 10%;
+}
